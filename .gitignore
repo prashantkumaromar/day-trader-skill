@@ -1,0 +1,11 @@
+trader/config.json
+trader/portfolio.json
+trader/prices.json
+trader/orders.json
+trader/plan.json
+trader/state/
+trader/*.json
+!trader/**/*.example.json
+__pycache__/
+*.py[cod]
+.DS_Store
